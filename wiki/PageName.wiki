@@ -1,5 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Commentents =
+= Comments =
 
 Everyone can post his comments below.
